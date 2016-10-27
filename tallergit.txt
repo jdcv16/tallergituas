@@ -1,4 +1,8 @@
 ﻿Hola Daniel
 Hoy es un buen día!!!
 ahhh, pero anoche?????
+<<<<<<< HEAD
 no se que hice bato :(
+=======
+Estaba programando bato :D
+>>>>>>> prueba
